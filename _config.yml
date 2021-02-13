@@ -1,4 +1,11 @@
 title: Class Notes
 markdown: kramdown
-{% include head.html %}
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - Static new.md
+  - README.md
 theme: jekyll-theme-cayman
