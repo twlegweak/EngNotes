@@ -6,8 +6,10 @@ Beams are slender elements that support transverse loads
 The Engineers bending equation is:
 
 
-$\frac{M}{I}=\frac{\sigma}{y}=\frac{E}{R}$$
+$\frac{M}{I}=\frac{\sigma}{y}=\frac{E}{R}$
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgwNzQxNDQsOTI1NzYxNTRdfQ==
+eyJoaXN0b3J5IjpbLTE5NTMzOTE5NjQsOTI1NzYxNTRdfQ==
 -->
