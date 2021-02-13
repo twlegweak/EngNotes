@@ -1,4 +1,4 @@
 title: Class Notes
 markdown: kramdown
-{% include footer.html %}
+{% include head.html %}
 theme: jekyll-theme-cayman
