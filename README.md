@@ -1,5 +1,5 @@
 ## Links
-[enter link description here](Statics/Beams.md)
+[enter link description here](Statics/Beams.md#beams)
 
 
 
@@ -41,6 +41,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.EngNotes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc4NTQ5NDEsLTgyNTg1MjA5MiwtMT
-I0NzM3NTkzNl19
+eyJoaXN0b3J5IjpbLTgyNTg1MjA5MiwtODI1ODUyMDkyLC0xMj
+Q3Mzc1OTM2XX0=
 -->
